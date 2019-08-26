@@ -14,6 +14,8 @@
 	<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
+
+
 </head>
 
 <body>
@@ -329,10 +331,49 @@
 
     </div>
     <?php include "footer.php" ?>
-    <script src="assets/js/plugins/plugins.min.js"></script>
+    <!-- JS
+============================================ -->
+
+    <!-- Modernizer JS -->
+    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <!-- jQuery JS -->
+    <script src="assets/js/vendor/jquery-3.3.1.min.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="assets/js/vendor/popper.min.js"></script>
+
+    <!-- Swiper Slider JS -->
+    <script src="assets/js/plugins/swiper.min.js"></script>
+
+    <!-- Light gallery JS -->
+    <script src="assets/js/plugins/lightgallery.min.js"></script>
+
+    <!-- Light gallery video JS -->
+    <script src="assets/js/plugins/lg-video.min.js"></script>
+
+    <!-- Waypoints JS -->
+    <script src="assets/js/plugins/waypoints.min.js"></script>
+
+    <!-- Counter up JS -->
+    <script src="assets/js/plugins/counterup.min.js"></script>
+
+    <!-- Mailchimp JS -->
+    <script src="assets/js/plugins/mailchimp-ajax-submit.min.js"></script>
+
+    <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
+
+    <!--
+<script src="assets/js/plugins/plugins.min.js"></script>
+-->
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+
+
 </body>
 
 </html>

@@ -10,10 +10,46 @@
     <!-- Favicon -->
     <link rel="icon" href="assets/img/favicon.ico">
 
-    <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
+    <!-- CSS
+	============================================ -->
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+
+    <!-- FontAwesome CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/font-awesome.min.css">
+
+    <!-- Material design iconic font CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/material-design-iconic-font.min.css">
+
+    <!-- Ionicons CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/ionicons.min.css">
+
+    <!-- Flaticon CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/flaticon.min.css">
+
+    <!-- Swiper slider CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
+
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/animate.min.css">
+
+    <!-- Light gallery CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css">
+
+
+    <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from avobe) -->
+    <!--
+	<link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
+	<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
+    -->
+
+
+
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
+
+
 </head>
 
 <body>
@@ -297,10 +333,48 @@
 
 <?php include "footer.php" ?>
 
-    <script src="assets/js/plugins/plugins.min.js"></script>
+    <!-- JS
+============================================ -->
+
+    <!-- Modernizer JS -->
+    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <!-- jQuery JS -->
+    <script src="assets/js/vendor/jquery-3.3.1.min.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="assets/js/vendor/popper.min.js"></script>
+
+    <!-- Swiper Slider JS -->
+    <script src="assets/js/plugins/swiper.min.js"></script>
+
+    <!-- Light gallery JS -->
+    <script src="assets/js/plugins/lightgallery.min.js"></script>
+
+    <!-- Light gallery video JS -->
+    <script src="assets/js/plugins/lg-video.min.js"></script>
+
+    <!-- Waypoints JS -->
+    <script src="assets/js/plugins/waypoints.min.js"></script>
+
+    <!-- Counter up JS -->
+    <script src="assets/js/plugins/counterup.min.js"></script>
+
+    <!-- Mailchimp JS -->
+    <script src="assets/js/plugins/mailchimp-ajax-submit.min.js"></script>
+
+    <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
+
+    <!--
+<script src="assets/js/plugins/plugins.min.js"></script>
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+
+
 </body>
 
 </html>
