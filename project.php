@@ -83,7 +83,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-1.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -91,10 +91,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Land Minning</a>
+                                                <a href="project-details.php">Land Minning</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -103,7 +103,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-2.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -111,10 +111,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Work Management</a>
+                                                <a href="project-details.php">Work Management</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-3.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -131,10 +131,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Material Engineering</a>
+                                                <a href="project-details.php">Material Engineering</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -143,17 +143,17 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-4.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Power and Energy</a>
+                                                <a href="project-details.php">Power and Energy</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -163,7 +163,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-5.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -171,10 +171,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Land Minning</a>
+                                                <a href="project-details.php">Land Minning</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -183,7 +183,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-6.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -191,10 +191,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Work Management</a>
+                                                <a href="project-details.php">Work Management</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -203,7 +203,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-7.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -211,10 +211,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Material Engineering</a>
+                                                <a href="project-details.php">Material Engineering</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -223,17 +223,17 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.html">
+                                                <a href="project-details.php">
                                                     <img src="assets/img/projects/project-8.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.html">Power and Energy</a>
+                                                <a href="project-details.php">Power and Energy</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.html" class="see-more-link">SEE MORE</a>
+                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
                                         </div>
                                     </div>
                                 </div>
