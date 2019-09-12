@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="lt">
 
 <head>
     <meta charset="utf-8">
@@ -78,7 +78,7 @@
                     <!--=======  End of single slider item  =======-->
                     <!--=======  single slider item  =======-->
 
-                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider2.jpg">
+                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider2.png">
                         <div class="hero-slider__content-wrapper">
                             <div class="container">
                                 <div class="row">
@@ -219,7 +219,7 @@
     </div>
     <!--====================  End of service grid slider area  ====================-->
     <!--====================  fun fact area ====================-->
-    <div class="funfact-section section-space--inner--100 bg-img" data-bg="assets/img/backgrounds/funfact-bg.jpg">
+    <div class="funfact-section section-space--inner--100 bg-img">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -265,111 +265,12 @@
                         <h4 class="video-cta-content__small-title">Apie mus</h4>
                         <h3 class="video-cta-content__title">Mes esame geriausi statybininkai...</h3>
                         <p class="video-cta-content__text">Mūsų imone dirba keliose salyse ir la ilgas tekstas cia</p>
-                        <a href="contact.php" class="ht-btn ht-btn--round">Susisiekite su mumis</a>
-                    </div>
-                </div>
-<!--                <div class="col-lg-5 offset-lg-1 col-md-12">-->
-<!--                    <div class="cta-video-image">-->
-<!--                        <div class="video-popup">-->
-<!--                            <a href="https://www.youtube.com/watch?v=OrS-93U4AYQ">-->
-<!--                                <div class="cta-video-image__image">-->
-<!--                                    <img src="assets/img/backgrounds/video-cta.jpg" class="img-fluid" alt="">-->
-<!--                                </div>-->
-<!--                                <div class="cta-video-image__icon">-->
-<!--                                    <i class="ion-ios-play"></i>-->
-<!--                                </div>-->
-<!--                            </a>-->
-<!--                        </div>-->
-
-<!--                    </div>-->
-<!--                </div>-->
-            </div>
-        </div>
-    </div>
-    <!--====================  End of video cta area  ====================-->
-    <!--====================  brand logo area ====================-->
-    <div class="brand-logo-slider-area section-space--inner--60">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h4 class="video-cta-content__small-title">Mūsų partneriai</h4>
-                    <!-- brand logo slider -->
-                    <div class="brand-logo-slider__container-area">
-                        <div class="swiper-container brand-logo-slider__container">
-                            <div class="swiper-wrapper brand-logo-slider__wrapper">
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
+                        <a href="contact.php" class="ht-btn ht-btn--round">Apie mus</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!--====================  End of brand logo area  ====================-->
 
 <?php include "footer.php" ?>
     <!-- JS
