@@ -56,7 +56,7 @@
 
 <?php include "header.php" ?>
     <!--====================  breadcrumb area ====================-->
-    <div class="breadcrumb-area bg-img" data-bg="assets/img/backgrounds/funfact-bg.jpg">
+    <div class="breadcrumb-area bg-img">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -94,7 +94,7 @@
                                                 <a href="project-details.php">Land Minning</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -114,7 +114,7 @@
                                                 <a href="project-details.php">Work Management</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +134,7 @@
                                                 <a href="project-details.php">Material Engineering</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -153,7 +153,7 @@
                                                 <a href="project-details.php">Power and Energy</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -174,7 +174,7 @@
                                                 <a href="project-details.php">Land Minning</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -194,7 +194,7 @@
                                                 <a href="project-details.php">Work Management</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +214,7 @@
                                                 <a href="project-details.php">Material Engineering</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -233,7 +233,7 @@
                                                 <a href="project-details.php">Power and Energy</a>
                                             </h3>
                                             <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>
+<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -248,88 +248,6 @@
         </div>
         <!--Projects section end-->
     </div>
-    <!--====================  brand logo area ====================-->
-    <div class="brand-logo-slider-area grey-bg section-space--inner--60">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- brand logo slider -->
-                    <div class="brand-logo-slider__container-area">
-                        <div class="swiper-container brand-logo-slider__container">
-                            <div class="swiper-wrapper brand-logo-slider__wrapper">
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--====================  End of brand logo area  ====================-->
 
 <?php include "footer.php" ?>
 
@@ -369,7 +287,7 @@
     <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
 
     <!--
-<script src="assets/js/plugins/plugins.min.js"></script>
+<script src="assets/js/plugins/plugins.min.js"></script> -->
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>

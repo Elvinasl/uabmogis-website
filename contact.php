@@ -15,15 +15,23 @@
 	<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
-
-
+<!--    map starts here-->
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+    <style>
+        .map {
+            height: 400px;
+            width: 100%;
+        }
+    </style>
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+<!-- map ends here -->
 </head>
 
 <body>
 
     <?php include "header.php" ?>
     <!--====================  breadcrumb area ====================-->
-    <div class="breadcrumb-area bg-img" data-bg="assets/img/backgrounds/funfact-bg.jpg">
+    <div class="breadcrumb-area bg-img">
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -44,7 +52,7 @@
 
                 <div class="row section-space--bottom--50">
                     <div class="col">
-                        <div id="contact-map" class="contact-map"></div>
+                        <div id="map" class="map"></div>
                     </div>
                 </div>
 
@@ -88,88 +96,6 @@
         </div>
         <!--Contact section end-->
     </div>
-    <!--====================  brand logo area ====================-->
-    <div class="brand-logo-slider-area grey-bg section-space--inner--60">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- brand logo slider -->
-                    <div class="brand-logo-slider__container-area">
-                        <div class="swiper-container brand-logo-slider__container">
-                            <div class="swiper-wrapper brand-logo-slider__wrapper">
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/1.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/2.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/3.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide brand-logo-slider__single">
-                                    <div class="image">
-                                        <a href="#">
-                                            <img src="assets/img/brand-logo/4.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--====================  End of brand logo area  ====================-->
     <?php include "footer.php" ?>
     <!-- JS
 ============================================ -->
@@ -211,6 +137,10 @@
     <!-- MailJS -->
     <script src="assets/js/plugins/ajax-mail.js"></script>
 
+    <link rel="stylesheet" href="https://openlayers.org/en/v5.3.0/css/ol.css" type="text/css">
+    <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+
     <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
 
     <!--
@@ -220,7 +150,22 @@
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
 
+    <script type="text/javascript">
+        var map = new ol.Map({
+            target: 'map',
+            layers: [
+                new ol.layer.Tile({
+                    source: new ol.source.OSM()
+                })
+            ],
+            view: new ol.View({
+                center: ol.proj.fromLonLat([21.263520, 55.932010]),
+                zoom: 7
+            })
+        });
 
+
+    </script>
 </body>
 
 </html>
