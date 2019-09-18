@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mogis - Jūsų statybų įmonė</title>
+    <title>UAB Mogis - aplinkos priežiūros profesionalai</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
@@ -67,7 +67,7 @@
                                         <div class="hero-slider__content">
                                             <h2 class="hero-slider__title">Mūsų tikslas – jūsų gerovė</h2>
                                             <p class="hero-slider__text">Mogis kuria ir puoselėja kokybišką ir harmoningą aplinką jums ir aplink jus</p>
-                                            <a class="hero-slider__btn" href="contact.php"> Susisiekti</a>
+                                            <a class="hero-slider__btn" href="/contact.php"> Susisiekti</a>
                                         </div>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@
                                         <div class="hero-slider__content">
                                             <h2 class="hero-slider__title">Visi sprendimai vienoje vietoje</h2>
                                             <p class="hero-slider__text">Mogis tai plataus spektro aplinkos priežiūros įmonė, siūlanti įvairiapusiškus sprendimus</p>
-                                            <a class="hero-slider__btn" href="contact.php">Parašykite mums</a>
+                                            <a class="hero-slider__btn" href="/contact.php">Parašykite mums</a>
                                         </div>
                                     </div>
                                 </div>
@@ -105,7 +105,6 @@
                                         <div class="hero-slider__content">
                                             <h2 class="hero-slider__title">Nepriekaištingai atlikti darbai</h2>
                                             <p class="hero-slider__text">Puiki reputacija ir sugrįžtantys klientai bei partneriai yra mūsų siekiai</p>
-<!--                                            <a class="hero-slider__btn" href="contact.php"> GET START</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -253,38 +252,7 @@
         </div>
     </div>
     <!--====================  End of service grid slider area  ====================-->
-    <!--====================  fun fact area ====================-->
-    <div class="funfact-section section-space--inner--100 bg-img">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="fun-fact-wrapper">
-                        <div class="row">
-
-                            <div class="single-fact col-md-4 col-6 section-space--bottom--30">
-                                <img src="assets/img/icons/funfact-project.png" alt="">
-                                <h1 class="counter">200</h1>
-                                <h4>Sėkmingų projektų</h4>
-                            </div>
-
-                            <div class="single-fact col-md-4 col-6 section-space--bottom--30">
-                                <img src="assets/img/icons/funfact-clients.png" alt="">
-                                <h1 class="counter">300</h1>
-                                <h4>Nutiestų interneto kabelių (km)</h4>
-                            </div>
-
-                            <div class="single-fact col-md-4 col-6 section-space--bottom--30">
-                                <img src="assets/img/icons/funfact-award.png" alt="">
-                                <h1 class="counter">60</h1>
-                                <h4>Profesionalių specialistų</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--====================  End of fun fact area  ====================-->
+    <?php include 'stats.php' ?>
     <!--====================  video cta area ====================-->
     <div class="video-cta-area section-space--inner--120">
         <div class="container">
@@ -294,7 +262,7 @@
                         <h4 class="video-cta-content__small-title">Apie mus</h4>
                         <h3 class="video-cta-content__title">Mogis tai įmonė, siūlanti visapusiškus sprendimus.</h3>
                         <p class="video-cta-content__text">Mumis pasitiki ir mūsų atliktais darbais užsakovai Švedijoje džiaugiasi nuo 2014 m. Per kuriuos atlikome daugiau nei 200 įvairių aukštos kokybės projektų. Esame nutiesėmę apie 300 km. interneto kabelių per patį įvairiausią landšaftą.</p>
-                        <a href="contact.php" class="ht-btn ht-btn--round">Apie mus</a>
+                        <a href="about.php" class="ht-btn ht-btn--round">Apie mus</a>
                     </div>
                 </div>
             </div>
