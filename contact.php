@@ -80,15 +80,15 @@
                             <ul>
                                 <li>
                                     <span class="icon"><i class="ion-android-map"></i></span>
-                                    <span class="text"><span>Tvenkinio g. 2, Kurmaičiai</span></span>
+                                    <span class="text"><b>Adresas</b><a href="#">Tvenkinio g. 2, Kurmaičiai</a></span>
                                 </li>
                                 <li>
                                     <span class="icon"><i class="ion-ios-telephone-outline"></i></span>
-                                    <span class="text"><a href="#">+370 602 21889</a></span>
+                                    <span class="text"><b>Telefonas</b><a href="#">+370 602 21889</a></span>
                                 </li>
                                 <li>
                                     <span class="icon"><i class="ion-ios-email-outline"></i></span>
-                                    <span class="text"><a href="#">mogisuab@gmail.com</a></span>
+                                    <span class="text"><b>El. paštas</b><a href="mailto:mogisuab@gmail.com">mogisuab@gmail.com</a></span>
                                 </li>
                             </ul>
                         </div>

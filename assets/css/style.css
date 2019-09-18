@@ -4396,7 +4396,7 @@ input::placeholder {
   background-color: #ffffff;
 }
 .header-area.header-sticky.is-sticky {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;

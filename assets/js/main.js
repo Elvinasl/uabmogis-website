@@ -5,7 +5,7 @@
     /*=============================================
     =            menu sticky and scroll to top            =
     =============================================*/
-    
+
 	/*----------  Menu sticky ----------*/
 
 	var windows = $(window);
@@ -18,16 +18,16 @@
 
 	windows.on('scroll', function () {
 		var scroll = windows.scrollTop();
-		var headerHeight = sticky.height();
-		var headerHeightAbsolute = stickyAbsolute.height();
+		var headerHeight = sticky.height() - 50;
+		var headerHeightAbsolute = stickyAbsolute.height() - 50;
 
 		if (screenSize >= 992) {
 			if (scroll < headerHeight) {
-				sticky.removeClass('is-sticky');
+                sticky.removeClass('is-sticky');
 			} else {
 				sticky.addClass('is-sticky');
             }
-            
+
 			if (scroll < headerHeightAbsolute) {
 				stickyAbsolute.removeClass('is-sticky--absolute');
 			} else {
@@ -79,57 +79,57 @@
 
     scrollToTop();
 
-    
+
     /*=====  End of menu sticky and scroll to top  ======*/
 
-    
-    
+
+
     /*=============================================
     =            background image            =
     =============================================*/
-    
+
     var bgSelector = $(".bg-img");
     bgSelector.each(function (index, elem) {
         var element = $(elem),
             bgSource = element.data('bg');
         element.css('background-image', 'url(' + bgSource + ')');
     });
-    
+
     /*=====  End of background image  ======*/
 
-    
+
     /*=============================================
     =            mobile menu active            =
     =============================================*/
-    
+
     $("#mobile-menu-trigger").on('click', function(){
         $("#mobile-menu-overlay").addClass("active");
         $body.addClass('no-overflow');
     });
-    
+
     $("#mobile-menu-close-trigger").on('click', function(){
         $("#mobile-menu-overlay").removeClass("active");
         $body.removeClass('no-overflow');
     });
-    
+
     /*=====  End of mobile menu active  ======*/
-    
-    
-    
+
+
+
     /*=============================================
     =            offcanvas mobile menu            =
     =============================================*/
-    
-        
+
+
     var $offCanvasNav = $('.offcanvas-navigation'),
         $offCanvasNavSubMenu = $offCanvasNav.find('.sub-menu');
-    
+
     /*Add Toggle Button With Off Canvas Sub Menu*/
     $offCanvasNavSubMenu.parent().prepend('<span class="menu-expand"><i></i></span>');
-    
+
     /*Close Off Canvas Sub Menu*/
     $offCanvasNavSubMenu.slideUp();
-    
+
     /*Category Sub Menu Toggle*/
     $offCanvasNav.on('click', 'li a, li .menu-expand', function(e) {
         var $this = $(this);
@@ -146,19 +146,19 @@
             }
         }
     });
-    
-    
+
+
     /*=====  End of offcanvas mobile menu  ======*/
 
 
-    
+
     /*=============================================
     =            swiper slider activation            =
     =============================================*/
-    
+
     $(document).ready(function(){
 
-  
+
 
         var heroSlider = new Swiper('.hero-slider__container', {
             slidesPerView : 1,
@@ -198,7 +198,7 @@
                 nextEl: '.ht-swiper-button-next-16',
                 prevEl: '.ht-swiper-button-prev-16'
             },
-            
+
         });
 
         var blogGallerySlider = new Swiper('.blog-gallery__container', {
@@ -278,7 +278,7 @@
             autoplay: {
                 delay: 3000,
             },
-           
+
             // Responsive breakpoints
             breakpoints: {
                 1499:{
@@ -302,68 +302,68 @@
 
 
     });
-    
+
     /*=====  End of swiper slider activation  ======*/
-    
-    
+
+
     /*=============================================
     =            light gallery active            =
     =============================================*/
-    
-    $('.video-popup').lightGallery(); 
+
+    $('.video-popup').lightGallery();
     $('.image-popup').lightGallery({
         selector: '.single-gallery-thumb'
-    }); 
-    
+    });
+
     /*=====  End of light gallery active  ======*/
 
-    
+
     /*=============================================
     =            counter up active            =
     =============================================*/
-    
+
     $('.counter').counterUp({
         delay: 10,
         time: 1000
     });
-    
+
     /*=====  End of counter up active  ======*/
-    
+
 
 
     /*=============================================
     =            mailchimp active            =
     =============================================*/
-    
+
     if(('#mc-form').length){
         $('#mc-form').ajaxChimp({
             language: 'en',
             callback: mailChimpResponse,
             // ADD YOUR MAILCHIMP URL BELOW HERE!
             url: 'http://devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef'
-    
+
         });
-        
+
         function mailChimpResponse(resp) {
-    
+
             if (resp.result === 'success') {
                 $('.mailchimp-success').html('' + resp.msg).fadeIn(900);
                 $('.mailchimp-error').fadeOut(400);
-    
+
             } else if (resp.result === 'error') {
                 $('.mailchimp-error').html('' + resp.msg).fadeIn(900);
             }
         }
     }
-    
-    /*=====  End of mailchimp active  ======*/
-    
 
-    
+    /*=====  End of mailchimp active  ======*/
+
+
+
     /*=============================================
     =            contact map active            =
     =============================================*/
-    
+
     if($('.contact-map').length){
         function initialize() {
             var mapOptions = {
@@ -377,15 +377,15 @@
                 map: map,
                 animation: google.maps.Animation.BOUNCE
             });
-    
+
         }
         google.maps.event.addDomListener(window, 'load', initialize);
     }
-    
+
     /*=====  End of contact map active  ======*/
-    
-    
-    
-    
-    
+
+
+
+
+
 })(jQuery);
