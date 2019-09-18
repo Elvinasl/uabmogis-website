@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html class="no-js" lang="lt">
 
@@ -96,11 +99,19 @@
                     <div class="col-lg-8 col-12">
                         <div class="contact-form">
                             <h3>Susisiekite su mumis</h3>
-                            <form id="contact-form" action="assets/php/mail.php" method="post">
+                            <div class="form-group">
+                                <?php
+                                if (isset($_SESSION['message'])) {
+                                    echo $_SESSION['message'];
+                                    session_destroy();
+                                }
+                                ?>
+                            </div>
+                            <form id="contact-form" action="assets/mail/mail.php" method="post">
                                 <div class="row row-10">
-                                    <div class="col-md-6 col-12 section-space--bottom--20"><input name="con_name" type="text" placeholder="Vardas"></div>
-                                    <div class="col-md-6 col-12 section-space--bottom--20"><input name="con_email" type="email" placeholder="Pavardė"></div>
-                                    <div class="col-12"><textarea name="con_message" placeholder="Pranešimas"></textarea></div>
+                                    <div class="col-md-6 col-12 section-space--bottom--20"><input name="name" type="text" placeholder="Vardas"></div>
+                                    <div class="col-md-6 col-12 section-space--bottom--20"><input name="email" type="email" placeholder="Pavardė"></div>
+                                    <div class="col-12"><textarea name="message" placeholder="Pranešimas"></textarea></div>
                                     <div class="col-12"><button>Siųsti</button></div>
                                 </div>
                             </form>
