@@ -10,7 +10,7 @@ session_start();
 
 // Form details
 $email_to = "elvinas.lukasevicius@gmail.com";
-$backUrl = "https://uabmogis.com/";
+$backUrl = "https://www.uabmogis.com/";
 
 $fullname = $_POST['name']; // required
 $email_from = $_POST['email']; // required

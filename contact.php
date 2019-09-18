@@ -110,7 +110,7 @@ session_start();
                             <form id="contact-form" action="assets/mail/mail.php" method="post">
                                 <div class="row row-10">
                                     <div class="col-md-6 col-12 section-space--bottom--20"><input name="name" type="text" placeholder="Vardas"></div>
-                                    <div class="col-md-6 col-12 section-space--bottom--20"><input name="email" type="email" placeholder="Pavardė"></div>
+                                    <div class="col-md-6 col-12 section-space--bottom--20"><input name="email" type="email" placeholder="El. paštas"></div>
                                     <div class="col-12"><textarea name="message" placeholder="Pranešimas"></textarea></div>
                                     <div class="col-12"><button>Siųsti</button></div>
                                 </div>
