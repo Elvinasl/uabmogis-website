@@ -79,7 +79,7 @@
                 <div class="col">
 
                     <div class="page-banner text-center">
-                        <h1>Atlikti darbai</h1>
+                        <h1>Paslaugos</h1>
                     </div>
 
                 </div>
@@ -101,7 +101,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/projects/project-1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/kasimas1.png" class="img-fluid" alt="Mogis kasimo darbai">
                                                 </a>
                                             </div>
 
@@ -120,7 +120,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/projects/project-2.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/drenazas.png" class="img-fluid" alt="Mogis inžinerinių tinklų rengimas">
                                                 </a>
                                             </div>
 
@@ -139,7 +139,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/projects/project-3.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/aplinkotvarka.png" class="img-fluid" alt="UAB Mogis aplinkotvarkos darbai">
                                                 </a>
                                             </div>
 
@@ -158,7 +158,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/projects/project-4.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/susisiekimo_keliai.png" class="img-fluid" alt="Mogis sisisiekimo keliu darbai">
                                                 </a>
                                             </div>
                                         </div>
@@ -178,7 +178,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/projects/project-5.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/komunikacijos_sistemos.png" class="img-fluid" alt="Mogis komunikacijos sistemos">
                                                 </a>
                                             </div>
 
@@ -198,7 +198,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/projects/project-6.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/islyginame_zeme.png" class="img-fluid" alt="Mogis žemės lyginimo darbai">
                                                 </a>
                                             </div>
 

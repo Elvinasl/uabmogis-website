@@ -75,7 +75,26 @@
                 <div class="swiper-wrapper hero-slider__wrapper">
                     <!--=======  single slider item  =======-->
 
-                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider3.jpg">
+                    <!--=======  single slider item  =======-->
+
+                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider1.png">
+                        <div class="hero-slider__content-wrapper">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="hero-slider__content">
+                                            <h2 class="hero-slider__title">Nepriekaištingai atlikti darbai</h2>
+                                            <p class="hero-slider__text">Puiki reputacija ir sugrįžtantys klientai bei partneriai yra mūsų siekiai</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--=======  End of single slider item  =======-->
+
+                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider3.png">
                         <div class="hero-slider__content-wrapper">
                             <div class="container">
                                 <div class="row">
@@ -111,24 +130,6 @@
                     </div>
 
                     <!--=======  End of single slider item  =======-->
-                    <!--=======  single slider item  =======-->
-
-                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider1.jpg">
-                        <div class="hero-slider__content-wrapper">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="hero-slider__content">
-                                            <h2 class="hero-slider__title">Nepriekaištingai atlikti darbai</h2>
-                                            <p class="hero-slider__text">Puiki reputacija ir sugrįžtantys klientai bei partneriai yra mūsų siekiai</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--=======  End of single slider item  =======-->
 
                 </div>
             </div>
@@ -156,7 +157,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/kasimas1.png" class="img-fluid" alt="Mogis kasimo darbai">
                                                 </a>
                                             </div>
                                         </div>
@@ -174,7 +175,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/drenazas.png" class="img-fluid" alt="Mogis inžinerinių tinklų rengimas">
                                                 </a>
                                             </div>
                                         </div>
@@ -192,7 +193,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/aplinkotvarka.png" class="img-fluid" alt="UAB Mogis aplinkotvarkos darbai">
                                                 </a>
                                             </div>
                                         </div>
@@ -210,7 +211,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/susisiekimo_keliai.png" class="img-fluid" alt="Mogis sisisiekimo keliu darbai">
                                                 </a>
                                             </div>
                                         </div>
@@ -228,7 +229,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/komunikacijos_sistemos.png" class="img-fluid" alt="Mogis komunikacijos sistemos">
                                                 </a>
                                             </div>
                                         </div>
@@ -245,7 +246,7 @@
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
                                                 <a href="#">
-                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                    <img src="assets/img/services/islyginame_zeme.png" class="img-fluid" alt="Mogis žemės lyginimo darbai">
                                                 </a>
                                             </div>
                                         </div>
