@@ -83,7 +83,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
+                                                <a href="#">
                                                     <img src="assets/img/projects/project-1.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -91,10 +91,9 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.php">Land Minning</a>
+                                                <a href="#">Žemės kasimo darbai</a>
                                             </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
+                                            <p class="subtitle">Nuo pradžios iki galo atvedame komunikacijas. Kasame tranšėjas, įvedame šviesolaidinius interneto ir elektros kabelius, prijungiame naujus vartotojus.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -103,7 +102,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
+                                                <a href="#">
                                                     <img src="assets/img/projects/project-2.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -111,10 +110,9 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.php">Work Management</a>
+                                                <a href="#">Inžinerinių tinklų įrengimas</a>
                                             </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
+                                            <p class="subtitle">Įrengiame pastatų vidaus ir lauko vandentiekį. Klojame drenažą, įrengiame buitinių ir lietaus nuotekų surinkimo sistemas.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +121,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
+                                                <a href="#">
                                                     <img src="assets/img/projects/project-3.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -131,10 +129,9 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.php">Material Engineering</a>
+                                                <a href="#">Aplinkotvarkos darbai</a>
                                             </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
+                                            <p class="subtitle">Pasirūpiname gražia jūsų pieva. Išlyginame ir išvalome sklypus, pašaliname kliūtis, įrengiame įvairaus ploto ir paskirties aikšteles ir stadionus.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -143,17 +140,17 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
+                                                <a href="#">
                                                     <img src="assets/img/projects/project-4.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.php">Power and Energy</a>
+                                                <a href="#">Tvarkome ir prižiūrime susisiekimo kelius</a>
                                             </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
+                                            <p class="subtitle">Klojame pagrindą būsimam asfalto liejimui ir kelio įrengimui. Taip pat lyginame aikšteles, dedame trinkeles ir kelkraščių bortelius.
+                                                Renovuojame ir prižiūrime jau esančius kelius, aikšteles ir įvairius susisiekimui naudojamus plotus.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -163,7 +160,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
+                                                <a href="#">
                                                     <img src="assets/img/projects/project-5.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -171,10 +168,10 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.php">Land Minning</a>
+                                                <a href="#">Prijungiame ir atvedame komunikacijos sistemas</a>
                                             </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
+                                            <p class="subtitle">Tvarkingai tausodami aplinką tiesiame ir įvedame elektros ar šviesolaidinius interneto kabelius.
+                                                Įrengiame lauko ir vidaus vandentiekį, bei visas kitas su vandens atvedimu ir nuvedimu susijusias sistemas - drenažą, tranšėjas, buitinių nuotekų surinkimo ir valymo įrenginius.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -183,7 +180,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
+                                                <a href="#">
                                                     <img src="assets/img/projects/project-6.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
@@ -191,54 +188,13 @@
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="project-details.php">Work Management</a>
+                                                <a href="#">Pasirūpiname gražia jūsų aplinka nuo pradžios iki galo</a>
                                             </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
+                                            <p class="subtitle">Išlyginame žemę, išpjauname medžius ir uolas. Vėliau pašaliname kelmus, akmenis ir kitas kliūtis.
+                                                Klojame žolę ir įrengiame pievas, žaidimų aikšteles, didesnes aikštes ir stadionus. Tuomet prižiūrime veją nuo piktžolių, kenkėjų, taip pat šienaujame ir genime krūmus bei gyvatvores.</p>
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-lg-4 col-sm-6 col-12 section-space--bottom--30">
-                                    <div class="service-grid-item service-grid-item--style2">
-                                        <div class="service-grid-item__image">
-                                            <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
-                                                    <img src="assets/img/projects/project-7.jpg" class="img-fluid" alt="">
-                                                </a>
-                                            </div>
-
-                                        </div>
-                                        <div class="service-grid-item__content">
-                                            <h3 class="title">
-                                                <a href="project-details.php">Material Engineering</a>
-                                            </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-sm-6 col-12 section-space--bottom--30">
-                                    <div class="service-grid-item service-grid-item--style2">
-                                        <div class="service-grid-item__image">
-                                            <div class="service-grid-item__image-wrapper">
-                                                <a href="project-details.php">
-                                                    <img src="assets/img/projects/project-8.jpg" class="img-fluid" alt="">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="service-grid-item__content">
-                                            <h3 class="title">
-                                                <a href="project-details.php">Power and Energy</a>
-                                            </h3>
-                                            <p class="subtitle">Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor</p>
-<!--                                            <a href="project-details.php" class="see-more-link">SEE MORE</a>-->
-                                        </div>
-                                    </div>
-                                </div>
-
-
 
                             </div>
                         </div>

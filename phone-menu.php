@@ -8,8 +8,8 @@
         <div class="offcanvas-inner-content">
             <nav class="offcanvas-navigation">
                 <ul>
-                    <li><a href="index.html">Pradžia</a></li>
-                    <li><a href="404.html">Mūsų darbai</a></li>
+                    <li><a href="index.php">Pradžia</a></li>
+                    <li><a href="project.php">Paslaugos</a></li>
                     <li><a href="about.php">Apie mus</a></li>
                     <li><a href="contact.php">Kontaktai</a></li>
                 </ul>

@@ -65,8 +65,8 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="hero-slider__content">
-                                            <h2 class="hero-slider__title">Statykite savo namus gerai!</h2>
-                                            <p class="hero-slider__text">Trumpas tekstas apie imone. Gali buti ir ilgesnis! :))</p>
+                                            <h2 class="hero-slider__title">Mūsų tikslas – jūsų gerovė</h2>
+                                            <p class="hero-slider__text">Mogis kuria ir puoselėja kokybišką ir harmoningą aplinką jums ir aplink jus</p>
                                             <a class="hero-slider__btn" href="contact.php"> Susisiekti</a>
                                         </div>
                                     </div>
@@ -84,9 +84,9 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="hero-slider__content">
-                                            <h2 class="hero-slider__title">Build Your Dream With Passion</h2>
-                                            <p class="hero-slider__text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.</p>
-                                            <a class="hero-slider__btn" href="contact.php"> GET START</a>
+                                            <h2 class="hero-slider__title">Visi sprendimai vienoje vietoje</h2>
+                                            <p class="hero-slider__text">Mogis tai plataus spektro aplinkos priežiūros įmonė, siūlanti įvairiapusiškus sprendimus</p>
+                                            <a class="hero-slider__btn" href="contact.php">Parašykite mums</a>
                                         </div>
                                     </div>
                                 </div>
@@ -103,9 +103,9 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="hero-slider__content">
-                                            <h2 class="hero-slider__title">Build Your Dream With Passion</h2>
-                                            <p class="hero-slider__text">Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.</p>
-                                            <a class="hero-slider__btn" href="contact.php"> GET START</a>
+                                            <h2 class="hero-slider__title">Nepriekaištingai atlikti darbai</h2>
+                                            <p class="hero-slider__text">Puiki reputacija ir sugrįžtantys klientai bei partneriai yra mūsų siekiai</p>
+<!--                                            <a class="hero-slider__btn" href="contact.php"> GET START</a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +128,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
-                        <h2 class="section-title section-space--bottom--50">Mūsų darbai</h2>
+                        <h2 class="section-title section-space--bottom--50">Paslaugos</h2>
                     </div>
                 </div>
                 <div class="col-lg-12">
@@ -140,16 +140,16 @@
                                     <div class="service-grid-item">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="service-details.html">
+                                                <a href="#">
                                                     <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="#">Darbas 1</a>
+                                                <a href="#">Žemės kasimo darbai</a>
                                             </h3>
-                                            <p class="subtitle">Trumpas darbo aprasymas</p>
+                                            <p class="subtitle">Nuo pradžios iki galo atvedame komunikacijas.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -158,16 +158,16 @@
                                     <div class="service-grid-item">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="service-details.html">
+                                                <a href="#">
                                                     <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="#">Darbas 2</a>
+                                                <a href="#">Inžinerinių tinklų įrengimas</a>
                                             </h3>
-                                            <p class="subtitle">Trumpas darbo aprasymas</p>
+                                            <p class="subtitle">Įrengiame pastatų vidaus ir lauko vandentiekį.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -176,16 +176,16 @@
                                     <div class="service-grid-item">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="service-details.html">
+                                                <a href="#">
                                                     <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="#">Darbas 3</a>
+                                                <a href="#">Aplinkotvarkos darbai</a>
                                             </h3>
-                                            <p class="subtitle">Trumpas darbo aprasymas</p>
+                                            <p class="subtitle">Pasirūpiname gražia jūsų pieva. I</p>
                                         </div>
                                     </div>
                                 </div>
@@ -194,16 +194,51 @@
                                     <div class="service-grid-item">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="service-details.html">
+                                                <a href="#">
                                                     <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
-                                                <a href="#">Darbas 4</a>
+                                                <a href="#">Tvarkome ir prižiūrime susisiekimo kelius</a>
                                             </h3>
-                                            <p class="subtitle">Trumpas darbo aprasymas</p>
+                                            <p class="subtitle">Klojame pagrindą būsimam asfalto liejimui ir kelio įrengimui. </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="service-grid-item">
+                                        <div class="service-grid-item__image">
+                                            <div class="service-grid-item__image-wrapper">
+                                                <a href="#">
+                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="service-grid-item__content">
+                                            <h3 class="title">
+                                                <a href="#">Prijungiame ir atvedame komunikacijos sistemas</a>
+                                            </h3>
+                                            <p class="subtitle">Tvarkingai tausodami aplinką tiesiame ir įvedame elektros ar šviesolaidinius interneto kabelius.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="service-grid-item">
+                                        <div class="service-grid-item__image">
+                                            <div class="service-grid-item__image-wrapper">
+                                                <a href="#">
+                                                    <img src="assets/img/service/service1.jpg" class="img-fluid" alt="">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="service-grid-item__content">
+                                            <h3 class="title">
+                                                <a href="#">Pasirūpiname gražia jūsų aplinka nuo pradžios iki galo</a>
+                                            </h3>
+                                            <p class="subtitle">Išlyginame žemę, išpjauname medžius ir uolas. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -226,28 +261,22 @@
                     <div class="fun-fact-wrapper">
                         <div class="row">
 
-                            <div class="single-fact col-md-3 col-6 section-space--bottom--30">
+                            <div class="single-fact col-md-4 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-project.png" alt="">
-                                <h1 class="counter">14</h1>
-                                <h4>Projektai</h4>
+                                <h1 class="counter">200</h1>
+                                <h4>Sėkmingų projektų</h4>
                             </div>
 
-                            <div class="single-fact col-md-3 col-6 section-space--bottom--30">
+                            <div class="single-fact col-md-4 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-clients.png" alt="">
-                                <h1 class="counter">128</h1>
-                                <h4>Laimingų klientų</h4>
+                                <h1 class="counter">300</h1>
+                                <h4>Nutiestų interneto kabelių (km)</h4>
                             </div>
 
-                            <div class="single-fact col-md-3 col-6 section-space--bottom--30">
-                                <img src="assets/img/icons/funfact-success.png" alt="">
-                                <h1 class="counter">4</h1>
-                                <h4>Šalys</h4>
-                            </div>
-
-                            <div class="single-fact col-md-3 col-6 section-space--bottom--30">
+                            <div class="single-fact col-md-4 col-6 section-space--bottom--30">
                                 <img src="assets/img/icons/funfact-award.png" alt="">
-                                <h1 class="counter">30</h1>
-                                <h4>Darbuotojų</h4>
+                                <h1 class="counter">60</h1>
+                                <h4>Profesionalių specialistų</h4>
                             </div>
                         </div>
                     </div>
@@ -263,8 +292,8 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="video-cta-content">
                         <h4 class="video-cta-content__small-title">Apie mus</h4>
-                        <h3 class="video-cta-content__title">Mes esame geriausi statybininkai...</h3>
-                        <p class="video-cta-content__text">Mūsų imone dirba keliose salyse ir la ilgas tekstas cia</p>
+                        <h3 class="video-cta-content__title">Mogis tai įmonė, siūlanti visapusiškus sprendimus.</h3>
+                        <p class="video-cta-content__text">Mumis pasitiki ir mūsų atliktais darbais užsakovai Švedijoje džiaugiasi nuo 2014 m. Per kuriuos atlikome daugiau nei 200 įvairių aukštos kokybės projektų. Esame nutiesėmę apie 300 km. interneto kabelių per patį įvairiausią landšaftą.</p>
                         <a href="contact.php" class="ht-btn ht-btn--round">Apie mus</a>
                     </div>
                 </div>

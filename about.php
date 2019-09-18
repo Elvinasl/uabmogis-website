@@ -52,9 +52,9 @@
 
                     <div class="col-lg-6 col-12 mb-30">
                         <div class="about-content-two">
-                            <h1>5 metu patirtis statybose!!! ss</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam repudiandae odit dolorum quis laudantium impedit beatae perferendis natus, hic libero sed atque quibusdam possimus error, voluptate est molestiae doloremque necessitatibus illum rerum sunt! Ad sunt obcaecati voluptatem sint sequi quos, qui non deleniti a praesentium, sapiente accusantium odit.</p>
-                            <a href="service.html" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Mūsų darbai</a>
+                            <h1>Apie Mogis patirtį ir darbo metodus</h1>
+                            <p>Mes dirbame su įvairaus dydžio projektais ir užsakovais Švedijoje. Veiklą pradėjome 2014 m. o šiandien sėkmingai užimame stiprias pozicijas žemės kasybos ir aplinkos priežiūros srityse. Turime 60 darbuotojų komandą, iki šiol esame įgyvendinę virš 200 sėkmingų projektų.</p>
+                            <a href="service.html" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Paslaugos</a>
                         </div>
                     </div>
 
@@ -63,52 +63,52 @@
         </div>
         <!--About section end-->
         <!--Feature section start-->
-        <div class="feature-section section-space--inner--100 grey-bg">
-            <div class="container">
-                <div class="col-lg-12">
-                    <div class="feature-item-wrapper">
-                        <div class="row">
-                            <div class="col-lg-4 col-md-6 col-12 section-space--bottom--30">
-                                <div class="feature">
-                                    <div class="icon">
-                                        <img src="assets/img/icons/feature-1.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <h3>Top Rated</h3>
-                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-4 col-md-6 col-12 section-space--bottom--30">
-                                <div class="feature">
-                                    <div class="icon">
-                                        <img src="assets/img/icons/feature-2.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <h3>Best Quality</h3>
-                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-4 col-md-6 col-12 section-space--bottom--30">
-                                <div class="feature">
-                                    <div class="icon">
-                                        <img src="assets/img/icons/feature-3.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="content">
-                                        <h3>Low Cost</h3>
-                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<!--        <div class="feature-section section-space--inner--100 grey-bg">-->
+<!--            <div class="container">-->
+<!--                <div class="col-lg-12">-->
+<!--                    <div class="feature-item-wrapper">-->
+<!--                        <div class="row">-->
+<!--                            <div class="col-lg-4 col-md-6 col-12 section-space--bottom--30">-->
+<!--                                <div class="feature">-->
+<!--                                    <div class="icon">-->
+<!--                                        <img src="assets/img/icons/feature-1.png" class="img-fluid" alt="">-->
+<!--                                    </div>-->
+<!--                                    <div class="content">-->
+<!--                                        <h3>Top Rated</h3>-->
+<!--                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur.</p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!---->
+<!--                            <div class="col-lg-4 col-md-6 col-12 section-space--bottom--30">-->
+<!--                                <div class="feature">-->
+<!--                                    <div class="icon">-->
+<!--                                        <img src="assets/img/icons/feature-2.png" class="img-fluid" alt="">-->
+<!--                                    </div>-->
+<!--                                    <div class="content">-->
+<!--                                        <h3>Best Quality</h3>-->
+<!--                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur.</p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!---->
+<!--                            <div class="col-lg-4 col-md-6 col-12 section-space--bottom--30">-->
+<!--                                <div class="feature">-->
+<!--                                    <div class="icon">-->
+<!--                                        <img src="assets/img/icons/feature-3.png" class="img-fluid" alt="">-->
+<!--                                    </div>-->
+<!--                                    <div class="content">-->
+<!--                                        <h3>Low Cost</h3>-->
+<!--                                        <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur.</p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!---->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
         <!--Feature section end-->
         <!--About section start-->
         <div class="about-section section-space--inner--120">
@@ -124,8 +124,11 @@
 
                     <div class="col-lg-6 col-12 order-3 order-lg-1">
                         <div class="about-content about-content-1">
-                            <h1><span>5</span>metu patirties tekstas</h1>
-                            <p>ligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor ellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum atibus saepe eveniet ut et voluptates repudiandae sint et molestiae</p>
+                            <h1><span>5</span>metu patirtis</h1>
+                            <p>Savo darbe skiriame daug dėmesio suprasti klientų poreikiams, detaliai išanalizuoti užduotis ir tinkamai jas įgyvendinti.
+                                Nuolat tobuliname savo įmonės vidinius procesus ir teikiamas paslaugas. Investuojame į darbuotojų išsilavinimą, kompetenciją, žinių atnaujinimą ir puikias darbo sąlygas. Reguliariai atnaujiname savo įrangą, todėl dirbame su moderniomis, patikimomis technologijomis.</p>
+
+                        <p>Mūsų reputacija yra kiekvienas atliktas darbas - todėl stengiamės dirbti nepriekaištingai.</p>
                         </div>
                     </div>
 

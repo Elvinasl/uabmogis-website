@@ -9,7 +9,7 @@
                             <!-- footer intro wrapper -->
                             <div class="footer-intro-wrapper">
                                 <div class="footer-desc">
-                                    Sekmingos pastato statybos yra labai gerai!! Trumpas aprasymas ar sukis turetu buti cia
+                                    Aplinkos priežiūra ir renovacija, su profesionaliai dirbančia įmone Mogis, leis išvengti klaidų ir nereikalingų išlaidų.
                                 </div>
 
                             </div>
