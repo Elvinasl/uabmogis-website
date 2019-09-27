@@ -54,14 +54,8 @@
     <!-- Light gallery CSS -->
     <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css">
 
-
-    <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from avobe) -->
-    <!--
-	<link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-	<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
-    -->
-
-
+    <!--    ekko-lightbox   -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
 
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -95,16 +89,14 @@
                     <div class="col-lg-12">
                         <div class="project-item-wrapper">
                             <div class="row">
-
                                 <div class="col-lg-4 col-sm-6 col-12 section-space--bottom--30">
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="#">
+                                                <a href="assets/img/services/kasimas1.png" data-toggle="lightbox" data-gallery="kasimo-darbai">
                                                     <img src="assets/img/services/kasimas1.png" class="img-fluid" alt="Mogis kasimo darbai">
                                                 </a>
                                             </div>
-
                                         </div>
                                         <div class="service-grid-item__content">
                                             <h3 class="title">
@@ -113,6 +105,14 @@
                                             <p class="subtitle">Nuo pradžios iki galo atvedame komunikacijas. Kasame tranšėjas, įvedame šviesolaidinius interneto ir elektros kabelius, prijungiame naujus vartotojus.</p>
                                         </div>
                                     </div>
+
+
+                                    <?php
+                                    for ($x = 1; $x <= 15; $x++) {
+                                        echo "<div data-toggle=\"lightbox\" data-gallery=\"kasimo-darbai\" data-remote=\"assets/img/services/kasimo_darbai/{$x}.jpg\"></div>";
+                                    }
+                                    ?>
+
                                 </div>
 
                                 <div class="col-lg-4 col-sm-6 col-12 section-space--bottom--30">
@@ -157,7 +157,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="#">
+                                                <a href="assets/img/services/susisiekimo_keliai.png" data-toggle="lightbox" data-gallery="keliu-tvarkymas">
                                                     <img src="assets/img/services/susisiekimo_keliai.png" class="img-fluid" alt="Mogis sisisiekimo keliu darbai">
                                                 </a>
                                             </div>
@@ -170,6 +170,9 @@
                                                 Renovuojame ir prižiūrime jau esančius kelius, aikšteles ir įvairius susisiekimui naudojamus plotus.</p>
                                         </div>
                                     </div>
+
+                                    <div data-toggle="lightbox" data-gallery="keliu-tvarkymas" data-remote="assets/img/services/keliu_tvarkymas/1.jpg"></div>
+
                                 </div>
 
 
@@ -257,11 +260,14 @@
     <!-- Mailchimp JS -->
     <script src="assets/js/plugins/mailchimp-ajax-submit.min.js"></script>
 
-    <!-- Plugins JS (Please remove the comment from below plugins.min.js for better website load performance and remove plugin js files from avobe) -->
-
-    <!--
-<script src="assets/js/plugins/plugins.min.js"></script> -->
-
+    <!--    ekko-lightbox   -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    </script>
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
 
