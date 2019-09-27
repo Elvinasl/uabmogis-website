@@ -138,7 +138,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="#">
+                                                <a href="assets/img/services/aplinkotvarka.png" data-toggle="lightbox" data-gallery="aplinkos-tvarkymas">
                                                     <img src="assets/img/services/aplinkotvarka.png" class="img-fluid" alt="UAB Mogis aplinkotvarkos darbai">
                                                 </a>
                                             </div>
@@ -151,6 +151,12 @@
                                             <p class="subtitle">Pasirūpiname gražia jūsų pieva. Išlyginame ir išvalome sklypus, pašaliname kliūtis, įrengiame įvairaus ploto ir paskirties aikšteles ir stadionus.</p>
                                         </div>
                                     </div>
+
+                                    <?php
+                                    for ($x = 1; $x <= 10; $x++) {
+                                        echo "<div data-toggle=\"lightbox\" data-gallery=\"aplinkos-tvarkymas\" data-remote=\"assets/img/services/aplinkos_tvarkymas/{$x}.jpg\"></div>";
+                                    }
+                                    ?>
                                 </div>
 
                                 <div class="col-lg-4 col-sm-6 col-12 section-space--bottom--30">
@@ -171,8 +177,11 @@
                                         </div>
                                     </div>
 
-                                    <div data-toggle="lightbox" data-gallery="keliu-tvarkymas" data-remote="assets/img/services/keliu_tvarkymas/1.jpg"></div>
-
+                                    <?php
+                                    for ($x = 1; $x <= 10; $x++) {
+                                        echo "<div data-toggle=\"lightbox\" data-gallery=\"keliu-tvarkymas\" data-remote=\"assets/img/services/keliu_tvarkymas/{$x}.jpg\"></div>";
+                                    }
+                                    ?>
                                 </div>
 
 
@@ -180,7 +189,7 @@
                                     <div class="service-grid-item service-grid-item--style2">
                                         <div class="service-grid-item__image">
                                             <div class="service-grid-item__image-wrapper">
-                                                <a href="#">
+                                                <a href="assets/img/services/komunikacijos_sistemos.png" data-toggle="lightbox" data-gallery="interneto-kabeliai">
                                                     <img src="assets/img/services/komunikacijos_sistemos.png" class="img-fluid" alt="Mogis komunikacijos sistemos">
                                                 </a>
                                             </div>
@@ -194,6 +203,12 @@
                                                 Įrengiame lauko ir vidaus vandentiekį, bei visas kitas su vandens atvedimu ir nuvedimu susijusias sistemas - drenažą, tranšėjas, buitinių nuotekų surinkimo ir valymo įrenginius.</p>
                                         </div>
                                     </div>
+
+                                    <?php
+                                    for ($x = 1; $x <= 2; $x++) {
+                                        echo "<div data-toggle=\"lightbox\" data-gallery=\"interneto-kabeliai\" data-remote=\"assets/img/services/interneto_kabeliai/{$x}.jpg\"></div>";
+                                    }
+                                    ?>
                                 </div>
 
                                 <div class="col-lg-4 col-sm-6 col-12 section-space--bottom--30">
