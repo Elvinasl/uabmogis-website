@@ -30,6 +30,7 @@ session_start();
     <meta name="theme-color" content="#ffffff">
     <!-- End of Favicon -->
 
+    <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
 
 	<link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
 	<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
@@ -162,9 +163,6 @@ session_start();
     <!-- Mailchimp JS -->
     <script src="assets/js/plugins/mailchimp-ajax-submit.min.js"></script>
 
-    <!-- MailJS -->
-    <script src="assets/js/plugins/ajax-mail.js"></script>
-
     <link rel="stylesheet" href="https://openlayers.org/en/v5.3.0/css/ol.css" type="text/css">
     <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
@@ -179,19 +177,23 @@ session_start();
     <script src="assets/js/main.js"></script>
 
     <script type="text/javascript">
-        var map = new ol.Map({
-            target: 'map',
-            layers: [
-                new ol.layer.Tile({
-                    source: new ol.source.OSM()
-                })
-            ],
-            view: new ol.View({
-                center: ol.proj.fromLonLat([21.263520, 55.932010]),
-                zoom: 7
-            })
-        });
 
+        map = new OpenLayers.Map("map");
+        map.addLayer(new OpenLayers.Layer.OSM());
+
+        var lonLat = new OpenLayers.LonLat(21.263520, 55.932010)
+            .transform(
+                new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+                map.getProjectionObject() // to Spherical Mercator Projection
+            );
+
+        var zoom=6;
+
+        var markers = new OpenLayers.Layer.Markers("Markers");
+        map.addLayer(markers);
+
+        markers.addMarker(new OpenLayers.Marker(lonLat));
+        map.setCenter (lonLat, zoom);
 
     </script>
 </body>
