@@ -36,8 +36,6 @@ session_start();
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <!--    map starts here-->
-    <script src="https://www.openlayers.org/api/OpenLayers.js"></script>
-
 
     <style>
         .map {
@@ -45,7 +43,6 @@ session_start();
             width: 100%;
         }
     </style>
-    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
 <!-- map ends here -->
 </head>
 
@@ -177,6 +174,7 @@ session_start();
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
 
+    <script src="assets/js/plugins/openlayers-release-2.13.1/lib/OpenLayers.js"></script>
     <script type="text/javascript">
 
         map = new OpenLayers.Map("map");
