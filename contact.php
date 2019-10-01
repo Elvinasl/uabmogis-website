@@ -30,14 +30,15 @@ session_start();
     <meta name="theme-color" content="#ffffff">
     <!-- End of Favicon -->
 
-    <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
 
 	<link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
 	<link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
-<!--    map starts here-->
-    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+    <!--    map starts here-->
+    <script src="https://www.openlayers.org/api/OpenLayers.js"></script>
+
+
     <style>
         .map {
             height: 400px;
