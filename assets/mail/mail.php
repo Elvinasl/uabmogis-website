@@ -8,7 +8,7 @@ require 'PHPMailer-master/src/Exception.php'; // If you want to debug
 session_start();
 
 // Form details
-$email_to = "elvinas.lukasevicius@gmail.com";
+$email_to = "mogisuab@gmail.com";
 $backUrl = "https://www.uabmogis.com/contact.php";
 
 $fullname = $_POST['name']; // required
