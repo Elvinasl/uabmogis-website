@@ -5,12 +5,11 @@ use PHPMailer\PHPMailer\Exception;
 require 'PHPMailer-master/src/PHPMailer.php'; // Only file you REALLY need
 require 'PHPMailer-master/src/Exception.php'; // If you want to debug
 
-session_destroy();
 session_start();
 
 // Form details
 $email_to = "elvinas.lukasevicius@gmail.com";
-$backUrl = "https://www.uabmogis.com/";
+$backUrl = "https://www.uabmogis.com/contact.php";
 
 $fullname = $_POST['name']; // required
 $email_from = $_POST['email']; // required

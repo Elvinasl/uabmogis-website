@@ -107,7 +107,7 @@ session_start();
                                 }
                                 ?>
                             </div>
-                            <form id="contact-form" action="assets/mail/mail.php" method="post">
+                            <form action="assets/mail/mail.php" method="post">
                                 <div class="row row-10">
                                     <div class="col-md-6 col-12 section-space--bottom--20"><input name="name" type="text" placeholder="Vardas"></div>
                                     <div class="col-md-6 col-12 section-space--bottom--20"><input name="email" type="email" placeholder="El. paštas"></div>
