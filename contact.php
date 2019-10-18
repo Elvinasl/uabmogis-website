@@ -82,11 +82,19 @@ session_start();
                             <ul>
                                 <li>
                                     <span class="icon"><i class="ion-android-map"></i></span>
-                                    <span class="text"><b>Adresas</b><a href="#">Tvenkinio g. 2, Kurmaičiai</a></span>
+                                    <span class="text"><b>Adresas</b><a href="#">J.K. Chodkeviciaus 10, Kretinga</a></span>
                                 </li>
                                 <li>
                                     <span class="icon"><i class="ion-ios-telephone-outline"></i></span>
-                                    <span class="text"><b>Telefonas</b><a href="#">+370 602 21889</a></span>
+                                    <span class="text"><b>Mindaugas</b><a href="#">+467 640 47427</a></span>
+                                </li>
+                                <li>
+                                    <span class="icon"><i class="ion-ios-telephone-outline"></i></span>
+                                    <span class="text"><b>Marius</b><a href="#">+467 225 70954</a></span>
+                                </li>
+                                <li>
+                                    <span class="icon"><i class="ion-ios-telephone-outline"></i></span>
+                                    <span class="text"><b>Karolina (Atsiskaitymai ir buhalterija)</b><a href="#">+370 675 80618</a></span>
                                 </li>
                                 <li>
                                     <span class="icon"><i class="ion-ios-email-outline"></i></span>
@@ -180,7 +188,7 @@ session_start();
         map = new OpenLayers.Map("map");
         map.addLayer(new OpenLayers.Layer.OSM());
 
-        var lonLat = new OpenLayers.LonLat(21.263520, 55.932010)
+        var lonLat = new OpenLayers.LonLat(21.246660, 55.890000)
             .transform(
                 new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
                 map.getProjectionObject() // to Spherical Mercator Projection

@@ -278,7 +278,9 @@
                     <div class="video-cta-content">
                         <h4 class="video-cta-content__small-title">Apie mus</h4>
                         <h3 class="video-cta-content__title">Mogis tai įmonė, siūlanti visapusiškus sprendimus.</h3>
-                        <p class="video-cta-content__text">Mumis pasitiki ir mūsų atliktais darbais užsakovai Švedijoje džiaugiasi nuo 2014 m. Per kuriuos atlikome daugiau nei 200 įvairių aukštos kokybės projektų. Esame nutiesėmę apie 300 km. interneto kabelių per patį įvairiausią landšaftą.</p>
+                        <p class="video-cta-content__text">
+                            Mumis pasitiki ir mūsų atliktais darbais užsakovai Švedijoje džiaugiasi nuo 2014 m. Per kuriuos atlikome daugiau nei 200 įvairių aukštos kokybės projektų. Esame nutiesėmę apie 300 km. interneto kabelių per patį įvairiausią landšaftą.
+                        </p>
                         <a href="about.php" class="ht-btn ht-btn--round">Apie mus</a>
                     </div>
                 </div>

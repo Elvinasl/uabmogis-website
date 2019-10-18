@@ -23,9 +23,9 @@
                             <div class="footer-widget mb-0">
                                 <h4 class="footer-widget__title">Kontaktai</h4>
                                 <div class="footer-widget__content">
-                                    <p class="address">Tvenkinio g. 2, Kurmaičiai</p>
+                                    <p class="address">J.K. Chodkeviciaus 10, Kretinga</p>
                                     <ul class="contact-details">
-                                        <li><span>T:</span>+370 602 21889</li>
+                                        <li><span>T:</span>+467 640 47427</li>
                                         <li><span>E:</span>mogisuab@gmail.com</li>
                                     </ul>
                                 </div>

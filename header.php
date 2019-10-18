@@ -22,7 +22,7 @@
                                     </div>
                                     <div class="header-info-single-item__content">
                                         <h6 class="header-info-single-item__title">Telefonas</h6>
-                                        <p class="header-info-single-item__subtitle">+370 602 21889</p>
+                                        <p class="header-info-single-item__subtitle">+467 640 47427</p>
                                     </div>
                                 </div>
                                 <div class="header-info-single-item">
@@ -31,7 +31,7 @@
                                     </div>
                                     <div class="header-info-single-item__content">
                                         <h6 class="header-info-single-item__title">Adresas</h6>
-                                        <p class="header-info-single-item__subtitle">Tvenkinio g. 2, Kurmaičiai</p>
+                                        <p class="header-info-single-item__subtitle">J.K. Chodkeviciaus 10, Kretinga</p>
                                     </div>
                                 </div>
                             </div>

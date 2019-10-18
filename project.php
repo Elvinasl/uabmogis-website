@@ -148,7 +148,9 @@
                                             <h3 class="title">
                                                 <a href="#">Aplinkotvarkos darbai</a>
                                             </h3>
-                                            <p class="subtitle">Pasirūpiname gražia jūsų pieva. Išlyginame ir išvalome sklypus, pašaliname kliūtis, įrengiame įvairaus ploto ir paskirties aikšteles ir stadionus.</p>
+                                            <p class="subtitle">
+                                                Pasirūpiname gražia jūsų pieva. Išlyginame ir išvalome sklypus, pašaliname kliūtis, įrengiame įvairaus ploto ir paskirties aikšteles ir stadionus.
+                                            </p>
                                         </div>
                                     </div>
 
@@ -172,8 +174,10 @@
                                             <h3 class="title">
                                                 <a href="#">Tvarkome ir prižiūrime susisiekimo kelius</a>
                                             </h3>
-                                            <p class="subtitle">Klojame pagrindą būsimam asfalto liejimui ir kelio įrengimui. Taip pat lyginame aikšteles, dedame trinkeles ir kelkraščių bortelius.
-                                                Renovuojame ir prižiūrime jau esančius kelius, aikšteles ir įvairius susisiekimui naudojamus plotus.</p>
+                                            <p class="subtitle">
+                                                Klojame pagrindą būsimam asfalto liejimui ir kelio įrengimui. Taip pat lyginame aikšteles, dedame trinkeles ir kelkraščių bortelius.
+                                                Renovuojame ir prižiūrime jau esančius kelius, aikšteles ir įvairius susisiekimui naudojamus plotus.
+                                            </p>
                                         </div>
                                     </div>
 
@@ -199,8 +203,10 @@
                                             <h3 class="title">
                                                 <a href="#">Prijungiame ir atvedame komunikacijos sistemas</a>
                                             </h3>
-                                            <p class="subtitle">Tvarkingai tausodami aplinką tiesiame ir įvedame elektros ar šviesolaidinius interneto kabelius.
-                                                Įrengiame lauko ir vidaus vandentiekį, bei visas kitas su vandens atvedimu ir nuvedimu susijusias sistemas - drenažą, tranšėjas, buitinių nuotekų surinkimo ir valymo įrenginius.</p>
+                                            <p class="subtitle">
+                                                Tvarkingai tausodami aplinką tiesiame ir įvedame elektros ar šviesolaidinius interneto kabelius.
+                                                Įrengiame lauko ir vidaus vandentiekį, bei visas kitas su vandens atvedimu ir nuvedimu susijusias sistemas - drenažą, tranšėjas, buitinių nuotekų surinkimo ir valymo įrenginius.
+                                            </p>
                                         </div>
                                     </div>
 

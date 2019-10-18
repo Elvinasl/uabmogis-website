@@ -21,7 +21,7 @@
                 <div class="off-canvas-contact-widget">
                     <div class="header-contact-info">
                         <ul class="header-contact-info__list">
-                            <li><i class="ion-android-phone-portrait"></i> <a href="tel:+37060221889">+370 602 21889 </a></li>
+                            <li><i class="ion-android-phone-portrait"></i> <a href="tel:+46764047427">+467 640 47427 </a></li>
                             <li><i class="ion-android-mail"></i> <a href="mailto:mogisuab@gmail.com">mogisuab@gmail.com</a></li>
                         </ul>
                     </div>

@@ -68,7 +68,9 @@
                     <div class="col-lg-6 col-12 mb-30">
                         <div class="about-content-two">
                             <h1>Apie Mogis patirtį ir darbo metodus</h1>
-                            <p>Mes dirbame su įvairaus dydžio projektais ir užsakovais Švedijoje. Veiklą pradėjome 2014 m. o šiandien sėkmingai užimame stiprias pozicijas žemės kasybos ir aplinkos priežiūros srityse. Turime 60 darbuotojų komandą, iki šiol esame įgyvendinę virš 200 sėkmingų projektų.</p>
+                            <p>
+                                Mes dirbame su įvairaus dydžio projektais ir užsakovais Švedijoje. Veiklą pradėjome 2014 m. o šiandien sėkmingai užimame stiprias pozicijas žemės kasybos ir aplinkos priežiūros srityse. Turime 60 darbuotojų komandą, iki šiol esame įgyvendinę virš 200 sėkmingų projektų.
+                            </p>
                             <a href="project.php" class="ht-btn--default ht-btn--default--dark-hover section-space--top--20">Paslaugos</a>
                         </div>
                     </div>
@@ -92,10 +94,13 @@
                     <div class="col-lg-6 col-12 order-3 order-lg-1">
                         <div class="about-content about-content-1">
                             <h1><span>5</span>metų patirtis</h1>
-                            <p>Savo darbe skiriame daug dėmesio suprasti klientų poreikiams, detaliai išanalizuoti užduotis ir tinkamai jas įgyvendinti.
-                                Nuolat tobuliname savo įmonės vidinius procesus ir teikiamas paslaugas. Investuojame į darbuotojų išsilavinimą, kompetenciją, žinių atnaujinimą ir puikias darbo sąlygas. Reguliariai atnaujiname savo įrangą, todėl dirbame su moderniomis, patikimomis technologijomis.</p>
+                            <p>
+                                Savo darbe skiriame daug dėmesio suprasti klientų poreikiams, detaliai išanalizuoti užduotis ir tinkamai jas įgyvendinti. Nuolat tobuliname savo įmonės vidinius procesus ir teikiamas paslaugas. Investuojame į darbuotojų išsilavinimą, kompetenciją, žinių atnaujinimą ir puikias darbo sąlygas. Reguliariai atnaujiname savo įrangą, todėl dirbame su moderniomis, patikimomis technologijomis.
+                            </p>
 
-                        <p>Mūsų reputacija yra kiekvienas atliktas darbas - todėl stengiamės dirbti nepriekaištingai.</p>
+                        <p>
+                            Mūsų reputacija yra kiekvienas atliktas darbas - todėl stengiamės dirbti nepriekaištingai.
+                        </p>
                         </div>
                     </div>
 
