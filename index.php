@@ -77,7 +77,7 @@
 
                     <!--=======  single slider item  =======-->
 
-                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider1.png">
+                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider1.jpg">
                         <div class="hero-slider__content-wrapper">
                             <div class="container">
                                 <div class="row">
@@ -94,7 +94,7 @@
 
                     <!--=======  End of single slider item  =======-->
 
-                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider3.png">
+                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider3.jpg">
                         <div class="hero-slider__content-wrapper">
                             <div class="container">
                                 <div class="row">
@@ -113,7 +113,7 @@
                     <!--=======  End of single slider item  =======-->
                     <!--=======  single slider item  =======-->
 
-                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider2.png">
+                    <div class="swiper-slide hero-slider__single-item bg-img" data-bg="assets/img/slider/slider2.jpg">
                         <div class="hero-slider__content-wrapper">
                             <div class="container">
                                 <div class="row">
@@ -279,7 +279,7 @@
                         <h4 class="video-cta-content__small-title">Apie mus</h4>
                         <h3 class="video-cta-content__title">Mogis tai įmonė, siūlanti visapusiškus sprendimus.</h3>
                         <p class="video-cta-content__text">
-                            Mumis pasitiki ir mūsų atliktais darbais užsakovai Švedijoje džiaugiasi nuo 2014 m. Per kuriuos atlikome daugiau nei 200 įvairių aukštos kokybės projektų. Esame nutiesėmę apie 300 km. interneto kabelių per patį įvairiausią landšaftą.
+                            Mumis pasitiki ir mūsų atliktais darbais užsakovai Švedijoje džiaugiasi nuo 2014 m. Per kuriuos atlikome daugiau nei 200 įvairių aukštos kokybės projektų. Esame nutiesę apie 300 km. interneto kabelių per patį įvairiausią landšaftą.
                         </p>
                         <a href="about.php" class="ht-btn ht-btn--round">Apie mus</a>
                     </div>

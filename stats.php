@@ -19,8 +19,8 @@
                             </div>
 
                             <div class="single-fact col-md-4 col-12 section-space--bottom--30">
-                                <img src="assets/img/icons/funfact-clients.png" alt="">
-                                <h1 class="counter">60</h1>
+                                <img src="assets/img/icons/funfact-clients.png" alt="mogis specialistai">
+                                <h1 class="counter">80</h1>
                                 <h4>Profesionalių specialistų</h4>
                             </div>
                         </div>
